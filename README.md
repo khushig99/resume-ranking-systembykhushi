@@ -51,7 +51,7 @@ Follow these steps to get the Resume Ranking System up and running:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/vectornguyen76/resume-ranking.git
+   git clone https://github.com/khushig99/resume-ranking-systembykhushi
    ```
 
 2. **Update environment**:
